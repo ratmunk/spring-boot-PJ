@@ -1,2 +1,7 @@
-package org.zerock.b01.domain;public class MemberRole {
+package org.zerock.b01.domain;
+
+public enum MemberRole {
+
+    USER, ADMIN;
+
 }
