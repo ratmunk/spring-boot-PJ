@@ -5,7 +5,7 @@
 
 1. java 11
 2. MYSQL 8
-3.springboot
+3. springboot
 4. 부트스트랩
 
 
